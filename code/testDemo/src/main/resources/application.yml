@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+spring:
+  datasource:
+    username: root
+    password: 111111
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.2.134:3331/mdi?useUnicode=true&serverTimezone=GMT&characterEncoding=UTF-8&useSSL=false
